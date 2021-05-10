@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery\\PierresBakery.csproj": {}
+    "D:\\Epicodus\\JanCohort\\PierresBakery.Solution\\pierresbakery\\PierresBakery.csproj": {}
   },
   "projects": {
-    "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery\\PierresBakery.csproj": {
+    "D:\\Epicodus\\JanCohort\\PierresBakery.Solution\\pierresbakery\\PierresBakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery\\PierresBakery.csproj",
+        "projectUniqueName": "D:\\Epicodus\\JanCohort\\PierresBakery.Solution\\pierresbakery\\PierresBakery.csproj",
         "projectName": "PierresBakery",
-        "projectPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery\\PierresBakery.csproj",
+        "projectPath": "D:\\Epicodus\\JanCohort\\PierresBakery.Solution\\pierresbakery\\PierresBakery.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery\\obj\\",
+        "outputPath": "D:\\Epicodus\\JanCohort\\PierresBakery.Solution\\pierresbakery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config"
