@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery.tests\\PierresBakery.Tests.csproj": {}
+    "D:\\Epicodus\\Bakery.Solution\\pierresbakery.tests\\PierresBakery.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery.tests\\PierresBakery.Tests.csproj": {
+    "D:\\Epicodus\\Bakery.Solution\\pierresbakery.tests\\PierresBakery.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery.tests\\PierresBakery.Tests.csproj",
+        "projectUniqueName": "D:\\Epicodus\\Bakery.Solution\\pierresbakery.tests\\PierresBakery.Tests.csproj",
         "projectName": "PierresBakery.Tests",
-        "projectPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery.tests\\PierresBakery.Tests.csproj",
+        "projectPath": "D:\\Epicodus\\Bakery.Solution\\pierresbakery.tests\\PierresBakery.Tests.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\pierresbakery.tests\\obj\\",
+        "outputPath": "D:\\Epicodus\\Bakery.Solution\\pierresbakery.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\PierresBakery.csproj": {
-                "projectPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\PierresBakery.csproj"
+              "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\PierresBakery.csproj": {
+                "projectPath": "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\PierresBakery.csproj"
               }
             }
           }
@@ -70,18 +70,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\PierresBakery.csproj": {
+    "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\PierresBakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\PierresBakery.csproj",
+        "projectUniqueName": "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\PierresBakery.csproj",
         "projectName": "PierresBakery",
-        "projectPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\PierresBakery.csproj",
+        "projectPath": "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\PierresBakery.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "D:\\Epicodus\\JanCohort\\pierresBakery.solution\\PierresBakery\\obj\\",
+        "outputPath": "D:\\Epicodus\\Bakery.Solution\\PierresBakery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
